@@ -1,5 +1,5 @@
-<nfe_cabecalho>
-  <registro_cabecalho>
+<registro_cabecalho>
+  <registro>
     <chave_de_acesso>41240106267630001509550010035101291224888487</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -21,8 +21,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>522.5</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>50240129843878000170550010000025251000181553</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -44,8 +44,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>499.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>50240112977901000117550010000051831659469117</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -67,8 +67,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>337.5</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240161186490000157551000000170551435015613</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>100</s_rie>
@@ -90,8 +90,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>6712.16</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240134028316923228550010003691801935917886</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -113,8 +113,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>274.56</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>33240101968236000189550020000000931000002482</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>2</s_rie>
@@ -136,8 +136,8 @@
     <consumidor_final>0 - NORMAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>642.5</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>33240111074537000112550010000170261252024011</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -159,8 +159,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
     <valor_nota_fiscal>509.49</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>42240142933602000141550010000003421234157448</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -182,8 +182,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
     <valor_nota_fiscal>752.4</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>42240111142525000188550010000029281367881645</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -205,8 +205,8 @@
     <consumidor_final>0 - NORMAL</consumidor_final>
     <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
     <valor_nota_fiscal>1826.68</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>53240121793208000185550010000041621085505452</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -228,8 +228,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>3426.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>43240110591513000178550010001589901593435130</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -251,8 +251,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>8875.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240114477127000100550010000119341682014103</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -274,8 +274,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>1416.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>29240105788360000113550010000367511001003700</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -297,8 +297,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>475.9</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240103549807000176550010001603701247148068</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -320,8 +320,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>29461.38</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>43240121783698000139550000000050201758542890</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>0</s_rie>
@@ -343,8 +343,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>116.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>25240108761132000148558929001803761379847297</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>892</s_rie>
@@ -366,8 +366,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>362.94</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>24240121172344000158550010000226611518005129</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -389,8 +389,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>71.2</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>21240103526252000147558902430084471957013301</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>890</s_rie>
@@ -412,8 +412,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>832.97</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>31240136933736000160550010000009641036036868</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -435,8 +435,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>937.5</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>13240181243735001977550110003126831434389385</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>11</s_rie>
@@ -458,8 +458,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>3557.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>51240107418552000163550070000298281013317735</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>7</s_rie>
@@ -481,8 +481,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>359.01</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>52240119442190000125550010000002051000008053</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -504,8 +504,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>26881.2</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>43240115641333000177550010000138951880800008</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -527,8 +527,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>20.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>26240144232997000180550010000001061604736206</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -550,8 +550,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>207.25</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>24240121172344000158550010000225941518005124</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -573,8 +573,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>370.8</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>21240100321961000106550010000027711281724627</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -596,8 +596,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>338.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240134028316923228550010003680821895807710</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -619,8 +619,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>274.56</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>23240114124286000121550010000214351719667666</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -642,8 +642,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>293.86</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240107689002001070550040009651251068643412</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>4</s_rie>
@@ -665,8 +665,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>16577.25</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>11240105082751000118550030000028071961141439</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>3</s_rie>
@@ -688,8 +688,8 @@
     <consumidor_final>0 - NORMAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>239.2</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>33240142498675000152558900084252611221488139</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>890</s_rie>
@@ -711,8 +711,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>600.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>31240119400787000107550020001382881596542602</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>2</s_rie>
@@ -734,8 +734,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>198.6</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>15240105054903000179558900026000941813445058</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>890</s_rie>
@@ -757,8 +757,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>2286.39</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240134028316923228550010003682871190911646</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -780,8 +780,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>274.56</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240113158576000123550010000007151038000006</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -803,8 +803,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>43499.99</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240134028316923228550010003691091625593939</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -826,8 +826,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>274.56</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>33240131343734000105550010000052751051465399</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -849,8 +849,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
     <valor_nota_fiscal>1840.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>25240108761132000148558929001845831104091314</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>892</s_rie>
@@ -872,8 +872,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>1955.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>42240107200582000107550010000036381500353278</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -895,8 +895,8 @@
     <consumidor_final>0 - NORMAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>6643.48</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>33240134164319000506550020007285111404046887</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>2</s_rie>
@@ -918,8 +918,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>13033.16</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>33240131673254000102550000009419131947020033</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>0</s_rie>
@@ -941,8 +941,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>726081.6</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>52240134274233010248550000000095681192430548</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>0</s_rie>
@@ -964,8 +964,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>11758.92</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>23240106628333000146550000003193591965191880</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>0</s_rie>
@@ -987,8 +987,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>56100.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>13240132969749000138550010000025911980503676</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1010,8 +1010,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>3682.9</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>26240100323090000151550010000778311445412925</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1033,8 +1033,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>586.3</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>43240112889035000102550010003280411514625164</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1056,8 +1056,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>2743.2</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240103508097000217550010000052651072024018</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1079,8 +1079,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>4948.54</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240101559403000138550030001344161759370688</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>3</s_rie>
@@ -1102,8 +1102,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>10077.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>43240103746938001387550040001482911451453628</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>4</s_rie>
@@ -1125,8 +1125,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>2154.05</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>33240111637221000191550010000271611968108323</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1148,8 +1148,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>88.22</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>25240108761132000148558929001807301681639327</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>892</s_rie>
@@ -1171,8 +1171,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>1733.28</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>21240103526252000147558902430102691512381960</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>890</s_rie>
@@ -1194,8 +1194,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>3498.2</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240149287841000110550010000011321004038030</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1217,8 +1217,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>1842.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>53240109255999000194550010000000781887290010</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1240,8 +1240,8 @@
     <consumidor_final>0 - NORMAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>20200.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>52240151607431000151550010000001151860625614</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1263,8 +1263,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
     <valor_nota_fiscal>5441.64</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>43240104004419000172550000000468521472674279</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>0</s_rie>
@@ -1286,8 +1286,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>191.48</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>41240129614830000190550010000078741140340810</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1309,8 +1309,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>30.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>41240147776164000179550010000002911000051442</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1332,8 +1332,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>760.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>53240123651234000102550010000108491171690576</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1355,8 +1355,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>27170.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>52240147341740000155550010000010801662721631</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1378,8 +1378,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>960.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>50240111319557000378550010001138751342870272</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1401,8 +1401,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>25400.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240134028316923228550010003662951402138670</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1424,8 +1424,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>131.78</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>51240129111673000109550020000141631362205850</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>2</s_rie>
@@ -1447,8 +1447,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>898.98</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>51240119967950000118550010001417291227856484</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1470,8 +1470,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>281.85</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>13240122761584019250550010000219531214111438</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1493,8 +1493,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>1746.39</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>50240129412918000120550010000132521651818922</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1516,8 +1516,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>3 - OPERAÇÃO NÃO PRESENCIAL, TELEATENDIMENTO</presen_a_do_comprador>
     <valor_nota_fiscal>122202.6</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>41240133609404000136550010000001611332303229</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1539,8 +1539,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>7486.5</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>33240124875483000136550010000615131690293359</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1562,8 +1562,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>9600.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240103772785001423551000002652261958305580</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>100</s_rie>
@@ -1585,8 +1585,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>45.84</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>33240107556125000141550010000010271001370079</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1608,8 +1608,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>528.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>33240103605534000130550000001298321747470850</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>0</s_rie>
@@ -1631,8 +1631,8 @@
     <consumidor_final>0 - NORMAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>14288.91</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>53240150506565000113550010000000191368001919</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1654,8 +1654,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
     <valor_nota_fiscal>10799.6</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240151566738000151550010000000831685520093</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1677,8 +1677,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>1172.16</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240147334422000167550010000000921112105297</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1700,8 +1700,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
     <valor_nota_fiscal>393.9</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>43240110245418000112550010000045771437361850</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1723,8 +1723,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>2 - OPERAÇÃO NÃO PRESENCIAL, PELA INTERNET</presen_a_do_comprador>
     <valor_nota_fiscal>82265.75</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>51240126588921000100550020000575441192309162</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>2</s_rie>
@@ -1746,8 +1746,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>168.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>31240114707364000110550010000604621344853230</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1769,8 +1769,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>330000.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>23240122808990000121550010000050761000066380</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1792,8 +1792,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>361.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>23240134274233013344550000000816521563567487</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>0</s_rie>
@@ -1815,8 +1815,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>2206.11</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>41240178796778000146550010000033861063270258</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1838,8 +1838,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>3384.58</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240131722206000159550010000025731541527270</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1861,8 +1861,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>189.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>31240133180160000119550010000047911648600560</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1884,8 +1884,8 @@
     <consumidor_final>0 - NORMAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>1178.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>33240133702028000804550020001595111917230552</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>2</s_rie>
@@ -1907,8 +1907,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>55000.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>41240105360051000148550010000010821576569133</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1930,8 +1930,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>994.2</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240134028316923228550010003658491151444798</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1953,8 +1953,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>134.65</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240134028316923228550010003649081807897660</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1976,8 +1976,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>139.35</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>31240105731550000102550010000804471321562308</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -1999,8 +1999,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>16288.26</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240161186490000157551000000169671147626930</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>100</s_rie>
@@ -2022,8 +2022,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>285773.95</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>33240113798478000150550010000038591008060001</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -2045,8 +2045,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>1203.34</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>11240110473085000189550040000383291767672359</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>4</s_rie>
@@ -2068,8 +2068,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>400.63</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>33240105057706000103550010000194861582785174</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -2091,8 +2091,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>4829.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240101139242000123550010001250251004442333</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -2114,8 +2114,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>1446.4</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>43240142152392000154550000000007261000018147</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>0</s_rie>
@@ -2137,8 +2137,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>6750.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>41240130102251000148550010000004791505616440</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -2160,8 +2160,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>700.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240162136304003820550010000683001779765870</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -2183,8 +2183,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>1126.88</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>31240123886799000160550010000006741816080000</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -2206,8 +2206,8 @@
     <consumidor_final>0 - NORMAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>16200.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>25240126044732000177550010000007761667380661</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -2229,8 +2229,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>1 - OPERAÇÃO PRESENCIAL</presen_a_do_comprador>
     <valor_nota_fiscal>8000.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240101772798000667550010004019491025873265</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -2252,8 +2252,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>9 - OPERAÇÃO NÃO PRESENCIAL, OUTROS</presen_a_do_comprador>
     <valor_nota_fiscal>6300.0</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240132366879000186550010000011051200015291</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -2275,8 +2275,8 @@
     <consumidor_final>1 - CONSUMIDOR FINAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>1497.6</valor_nota_fiscal>
-  </registro_cabecalho>
-  <registro_cabecalho>
+  </registro>
+  <registro>
     <chave_de_acesso>35240158309709000153550040001357171266796999</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>4</s_rie>
@@ -2298,5 +2298,5 @@
     <consumidor_final>0 - NORMAL</consumidor_final>
     <presen_a_do_comprador>0 - NÃO SE APLICA</presen_a_do_comprador>
     <valor_nota_fiscal>1292418.75</valor_nota_fiscal>
-  </registro_cabecalho>
-</nfe_cabecalho>
+  </registro>
+</registro_cabecalho>
