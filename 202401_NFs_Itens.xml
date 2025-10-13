@@ -1,5 +1,6 @@
-<registro_itens>
-  <registro>
+<?xml version='1.0' encoding='utf-8'?>
+<nfe_itens>
+  <registro_item>
     <chave_de_acesso>41240106267630001509550010035101291224888487</chave_de_acesso>
     <modelo>55 - NF-E EMITIDA EM SUBSTITUIÇÃO AO MODELO 1 OU 1A</modelo>
     <s_rie>1</s_rie>
@@ -16383,5 +16384,5 @@
     <unidade>MILHEI</unidade>
     <valor_unit_rio>29.85</valor_unit_rio>
     <valor_total>985050.0</valor_total>
-  </registro>
-</registro_itens>
+  <registro_item>
+<nfe_itens>
